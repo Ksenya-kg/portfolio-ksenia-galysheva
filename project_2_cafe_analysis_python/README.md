@@ -13,7 +13,7 @@ Python · pandas · matplotlib · seaborn · Jupyter/Colab · Google Sheets
 2. Анализ → топ-5 блюд, пики по часам  
 3. Визуализация → `cafe_orders_analysis.png`
 
-## 🧠 Пример кода (актуальная версия)
+## 🧠 Пример кода
 ```python
 import random
 from datetime import datetime, timedelta
