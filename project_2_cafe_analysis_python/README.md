@@ -13,7 +13,7 @@ Python · pandas · matplotlib · seaborn · Jupyter/Colab · Google Sheets
 2. Анализ → топ-5 блюд, пики по часам  
 3. Визуализация → `cafe_orders_analysis.png`
 
-## 🧠 Пример кода
+## 🧠 Пример кода (актуальная версия)
 ```python
 import random
 from datetime import datetime, timedelta
@@ -87,14 +87,26 @@ if __name__ == "__main__":
 
 Рекомендации: промо-акции в «тихие часы» (15:00–18:00), усиление смен в пиковые окна
 
-📎 Файлы
-Имя	Назначение
-scr.py	основной скрипт (генерация → анализ → визуализация)
-cafe_orders_sample.csv	сгенерированные данные (пример датасета)
-cafe_orders_analysis.png	итоговая визуализация (топ-5 + пики по часам)
-requirements.txt	зависимости (pandas, matplotlib, seaborn)
-DATA_DICTIONARY.md	описание полей датасета
-logo.png	логотип/обложка проекта
 🧩 Роль аналитика
 
 Создание скрипта, анализ данных, построение визуализаций, формулировка бизнес-рекомендаций.
+
+📎 Файлы
+
+scr.py
+    основной скрипт (генерация → анализ → визуализация)
+
+cafe_orders_sample.csv
+	сгенерированные данные (пример датасета)
+
+cafe_orders_analysis.png
+	итоговая визуализация (топ-5 + пики по часам)
+
+requirements.txt
+	зависимости (pandas, matplotlib, seaborn)
+
+DATA_DICTIONARY.md
+	описание полей датасета
+
+logo.png
+	логотип/обложка проекта
